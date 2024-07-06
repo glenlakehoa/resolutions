@@ -92,46 +92,64 @@ b)	The Clubhouse Parking Lot is restricted to temporary use for visitors to the 
 </li></ol>
  
 ## Article 3. Parking permits.
-a.	Parking permits may be issued by the Management Company under authority of the Board.
-b.	The number of permits will be limited to six (6) designated spaces in the rear area of the                                                           clubhouse parking lot and two (2) in the Bridgeport Playground Area Parking Lot during the months of May - October. Eight (8) spaces will be available in the Club House parking area November – April.  
-c.	More parking permits may be available during the months of November – April between the hours of 10 PM – 10 AM depending on the activity of the clubhouse and at the discretion of the board. 
-d.	Parking permits will be issued as the following.
-a.	24-hour parking permit – $5.00
-b.	48-hour parking permit – $10.00
-c.	72-hour parking permit – $15.00
-e.	Only one permit will be issued per resident per 30-day period unless approved by the Board.
-f.	The Association is not responsible for any damages that may occur while parked in the common parking areas.
-g.	Parking before or after the designated time will result the vehicle being towed at the owner’s expense.
-h.	Parking Permits shall be placed clearly visible on the dashboard on the driver’s side.
+<ol type="a">
+	<li>Parking permits may be issued by the Management Company under authority of the Board.</li>
+	<li>The number of permits will be limited to six (6) designated spaces in the rear area of the Clubhouse parking lot and two (2) in the Bridgeport Playground Area Parking Lot during the months of May-October. Eight (8) spaces will be available in the Club House parking area November–April.</li>
+	<li>More parking permits may be available during the months of November – April between the hours of 10 PM – 10 AM depending on the activity of the clubhouse and at the discretion of the board. </li>
+	<li>Parking permits will be issued as the following.
+	<ol type="a">
+		<li>24-hour parking permit – $5.00</li>
+		<li>48-hour parking permit – $10.00</li>
+		<li>72-hour parking permit – $15.00</li>
+	</ol>
+	</li>
+	<li>Only one permit will be issued per resident per 30-day period unless approved by the Board.</li>
+	<li>The Association is not responsible for any damages that may occur while parked in the common parking areas.</li>
+	<li>Parking before or after the designated time will result the vehicle being towed at the owner’s expense.</li>
+	<li>Parking Permits shall be placed clearly visible on the dashboard on the driver’s side.</li>
+</ol>
 
 ## Article 4. Golf Carts
-a)	The use of golf carts shall be bound to the South Carolina Code of Law § 56-2-105 on any and all areas covered by the Declaration.
-b)	Changes to § 56-2-105 after June 1st, 2022, by the South Carolina legislature will be automatically incorporated into this Resolution.
+<ol type="a">
+	<li>The use of golf carts shall be bound to the South Carolina Code of Law § 56-2-105 on any and all areas covered by the Declaration.</li>
+	<li>Changes to § 56-2-105 after June 1st, 2022, by the South Carolina legislature will be automatically incorporated into this Resolution.</li>
+</ol>
 
 ## Article 5.  Fire pits
 Homeowners, residents and guests shall adhere to the Community-Wide Standard for permanent and portable recreational fire pits. This Community-Wide Standard is based on the 2021 International Fire Code.
 
 Community-Wide Standard for permanent and portable recreational fire pits 
 
-a)	All permanent fire pits must be approved by the Architectural Review Committee before construction.
-b)	Outdoor fire pits, permanent or portable, shall be constantly attended until the fire is extinguished. If any damage is done to any properties due to homeowner’s fire, the homeowner will be fully responsible.
-c)	Acceptable burning material for fire pits, permanent or portable, are as follows: 
-i.	Natural gas
-ii.	Propane 
-iii.	Gel
-iv.	Pellets
-v.	Fire logs
-vi.	Clean wood products (woody vegetation or wood which is not coated with stain, paint, glue or other coating material, and not treated lumber.)
-d.	Unacceptable burning material:
-i.	Trash
-ii.	Construction material
-e.	Fire barrels and dug fire pits for the use of burning trash are not allowed.
-f.	Permanent fire pits must be a minimum of 15 feet from any home, fence, pools, spas, trees or structures.
-g.	Permanent fire pits must be surrounded by a minimum of 2 feet patio concrete or patio style bricks.
-h.	Fire pits must be a minimum of 6 inches high, using stone, brick, metal or glass.
-i.	Fire pits may not exceed a maximum of 4 feet in diameter. 
-j.	Fire pits may not be under a covered area.
-k.	Not fewer than one portable fire extinguisher complying with Section 906 of the 2018 international fire code with a minimum 4-A rating or other approved on-site fire-extinguishing equipment, such as dirt, sand, water barrel, or garden hose, shall be available for immediate utilization. 
+<ol type="a">
+  <li>All permanent fire pits must be approved by the Architectural Review Committee before construction.</li>
+  <li>Outdoor fire pits, permanent or portable, shall be constantly attended until the fire is extinguished. If any damage is done to any properties due to homeowner’s fire, the homeowner will be fully responsible.</li>
+  <li>Acceptable burning material for fire pits, permanent or portable, are as follows:
+  <ol type="i">
+  <li>Natural gas</li>
+  <li>Propane</li>
+  <li>Gel</li>
+  <li>Pellets</li>
+  <li>Fire logs</li>
+  <li>Clean wood products (woody vegetation or wood which is not coated with stain, paint, glue or other coating material, and not treated lumber.)</li>
+  </ol>
+  </li>
+  <li>Unacceptable burning material:
+	  <ol type="i">
+		  <li>Trash</li>
+		  <li>Construction material</li>
+	  </ol>	  
+  </li>
+  <li>Fire barrels and dug fire pits for the use of burning trash are not allowed.</li>
+  <li>Permanent fire pits must be a minimum of 15 feet from any home, fence, pools, spas, trees or structures.</li>
+  <li>Permanent fire pits must be surrounded by a minimum of 2 feet patio concrete or patio style bricks.</li>
+  <li>Fire pits must be a minimum of 6 inches high, using stone, brick, metal or glass.</li>
+  <li>Fire pits may not exceed a maximum of 4 feet in diameter. </li>
+  <li>Fire pits may not be under a covered area.</li>
+  <li>Not fewer than one portable fire extinguisher complying with Section 906 of the 2018 international fire code with a minimum 4-A rating or other approved on-site fire-extinguishing equipment, such as dirt, sand, water barrel, or garden hose, shall be available for immediate utilization.</li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
 
 ## Article 6. Severability
 If any part, term or provision of this Resolution is held to be illegal, in conflict with any law or otherwise invalid, or revoked or amended, the remaining portion or portions shall be considered severable and not be affected by such determination, and the rights and obligations of the parties shall be construed and enforced as if the Resolution did not contain the particular part, term or provisions held to be illegal, invalid, revoked or amended.
