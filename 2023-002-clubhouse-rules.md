@@ -10,7 +10,8 @@ WHEREAS the Board believes that the Club House rules need to be changed and wish
 
 NEW RULES, DEFINITIONS AND INTERPRETATIONS REGARDING THE CLUBHOUSE RENTAL PROCESS WILL BE PROMULGATED AS FOLLOWS:
 
-## Article 1. The Club House rules will be changed to the document as attached to this resolution. 
+## Article 1
+The Club House rules will be changed to the document as attached to this resolution. 
 
 ## Severability
 If any part, term or provision of this Resolution is held to be illegal, in conflict with any law or otherwise invalid, or revoked or amended, the remaining portion or portions shall be considered severable and not be affected by such determination, and the rights and obligations of the parties shall be construed and enforced as if the Resolution did not contain the particular part, term or provisions held to be illegal, invalid, revoked or amended.
