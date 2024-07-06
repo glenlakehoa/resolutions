@@ -146,9 +146,6 @@ Community-Wide Standard for permanent and portable recreational fire pits
   <li>Fire pits may not exceed a maximum of 4 feet in diameter. </li>
   <li>Fire pits may not be under a covered area.</li>
   <li>Not fewer than one portable fire extinguisher complying with Section 906 of the 2018 international fire code with a minimum 4-A rating or other approved on-site fire-extinguishing equipment, such as dirt, sand, water barrel, or garden hose, shall be available for immediate utilization.</li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ol>
 
 ## Article 6. Severability
@@ -162,3 +159,7 @@ Throughout this Resolution, terms such as Glenlake Upstate Homeowners Associatio
 
 ## Article 9. Enforceability.
 This Resolution takes effect upon approval by the Board and is immediately enforceable in reference to the SC HOA Act of 2018. To preserve enforceability under the SC HOA Act, it will be filed with the Register before January 10th of the year after passing this Resolution. 
+
+The signatures of all Board members passing this Resolution appear below.
+
+ADOPTED this _______ day of ________________, 20__.
