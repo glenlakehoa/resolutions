@@ -12,7 +12,7 @@ RULES, DEFINITIONS, AND INTERPRETATIONS REGARDING THE COMMUNITY-WIDE STANDARD RE
 
 ## Article 1. 
 <ol type="a">
-  <li>The Community Wide Standard 8.8 d is amended by the following: Fences must be Stockade style or Stockade Arched-up style. If a portion of arched up fence needs to be replaced, that portion needs to be Arched up. If the entire length of fence (sides, back, or front) is being replaced that “side” does not need to be arched up.</li>
+  <li>The Community Wide Standard 8.8 d is amended by the following:<BR>Fences must be Stockade style or Stockade Arched-up style. If a portion of arched up fence needs to be replaced, that portion needs to be Arched up. If the entire length of fence (sides, back, or front) is being replaced that “side” does not need to be arched up.</li>
   <li>Maintenance of Fences. <br>Maintenance includes but is not limited to replacing rotten, broken, missing boards. As  part of maintaining a fence they will be painted with a long-lasting exterior paint or stain. This is usually an opaque stain or paint. Any portion of the fence that faces the street or a common area must be painted with the color approved by the Architectural Review Committee (ARC). Currently the color is Sherwin Williams Belvedere Tan or matching color from another manufacturer. The interior of the fence must also be painted or stained accordingly any deviation must be approved by the ARC.</li>
   <li>The Architectural Review Committee request form will be updated to include this amendment. </li>
 </ol>
