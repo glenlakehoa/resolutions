@@ -1,5 +1,9 @@
 # Whereas's
 
+## Pre-amble
+
+The undersigned, being the Board of Directors (hereafter referred to as the “Board”) of the Glenlake Upstate Homeowners Association, Inc. (hereafter referred to as the “Association”), do hereby resolve that:
+
 ## Covenants
 
 WHEREAS on March 31, 2005, the Declarant recorded that certain Declaration of Protective Covenants for Glenlake Subdivision in the Office of the Register of Deeds for Spartanburg County, South Carolina (“the Register”), in Deed Book 82-R at Page 862, whereby certain property belonging to the Declarant was submitted to the terms and conditions of said Declaration of Protective Covenants for Glenlake Subdivision (the "Original Declaration");
