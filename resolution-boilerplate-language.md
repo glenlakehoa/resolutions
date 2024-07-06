@@ -1,8 +1,7 @@
-# Whereas's
-
-## Pre-amble
-
+# Pre-amble
 The undersigned, being the Board of Directors (hereafter referred to as the “Board”) of the Glenlake Upstate Homeowners Association, Inc. (hereafter referred to as the “Association”), do hereby resolve that:
+
+# Whereas's
 
 ## Covenants
 
