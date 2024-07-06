@@ -9,3 +9,7 @@ WHEREAS, the Board believes it is in the best interest of the Association to est
 NOW THEREFORE, THE BOARD HEREBY RESOLVES THAT A NEW RULE IS PROMULGATED AS FOLLOWS:
 
 **No homeowner, resident, guest or any other person shall be allowed to feed water fowl in the Common Areas without explicit prior written approval of the Board of Directors.**
+
+The signatures of all Board members passing this Resolution appear below.
+
+ADOPTED this __6th___ day of ___June____________, 2019.
