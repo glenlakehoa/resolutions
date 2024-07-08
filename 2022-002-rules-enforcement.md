@@ -17,9 +17,8 @@ BOARD RESOLUTION 2018-010 IS REVOKED AND REPLACED BY THE FOLLOWING PROCEDURE FOR
 <ol type="1">
    <li>A breach of the Governing Documents is reported to the Association Manager by a member of the Association by completion of the Resident Complaint Form or by the Association Manager’s own observation.</li>
    <li>The Association Manager will research the Governing Documents to determine if the reported action is a violation. If, in the Association Manager’s opinion, a violation has occurred, the Board will be notified, and it or an appointed designee will visit the property to verify the accuracy of the report.</li>
-   <li>When the breach is confirmed by the Board, the Board will communicate in writing to the Association Manager to send the Notice of Violation letter to the registered owner of the property which is in violation. This letter will be sent from the office of the Association Managerm and more specifically, from the Association Manager's staff member who would be charged with compelling compliance with the Governing Documents within the community</li>
-
-<li><ol type ="a">
+   <li>When the breach is confirmed by the Board, the Board will communicate in writing to the Association Manager to send the Notice of Violation letter to the registered owner of the property which is in violation. This letter will be sent from the office of the Association Managerm and more specifically, from the Association Manager's staff member who would be charged with compelling compliance with the Governing Documents within the community
+<ol type ="a">
    <li>This letter will notify the owner of the specific portion of the Governing Documents that the property is violating, the exact wording of the Governing Documents, the specific steps to be taken to remedy the breach and a specific time period during which the breach may be remedied without further actions being taken by the Association.</li>
    <li>If the breach is remedied within the time period, no further action will be taken.</li>
    <li>Only one (1) Notice of Violation letter per type of violation will be sent per lot. Any following violations of a similar nature at the same lot within the same calendar year can be followed by a fine at the discretion of the Board.</li> 
