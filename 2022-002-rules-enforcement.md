@@ -30,27 +30,23 @@ BOARD RESOLUTION 2018-010 IS REVOKED AND REPLACED BY THE FOLLOWING PROCEDURE FOR
    
 5. Upon verification that the breach is ongoing past the specified time period set forth in the Notice of Violation letter, the Board will convene in Executive Session either in person or by any other means approved by the Board for the purpose of taking a vote to determine the remedy action to be taken by the Association. Upon a majority vote by the Board, the President will then notify the Executive Officer of the Association Manager in writing to proceed with the affirmed action.
 
-6. Upon notification from the Board of their decision to proceed and the action to be taken, a Notice of Legal Action letter will be sent via certified US Mail to the registered owner of the property that remains in violation. This letter will be sent from the office of the Executive Officer of the Association Manager who oversees the Management of the community.
+6. Upon notification from the Board of their decision to proceed and the action to be taken, a Notice of Legal Action letter will be sent by certified US Mail to the registered owner of the property that remains in violation. This letter will be sent from the office of the Executive Officer of the Association Manager who oversees the Management of the community. This letter will reference the Notice of Violation letter. This letter will detail the failure of the owner to remedy the violation or bring their property into compliance and the intent of the Association to bring legal actions against the registered owner of the property. These legal actions may take the form of Fines for Non-compliance, Self-Help remedies as permitted by the Governing Documents, or actions being taken in the Courts. The letter will also state the Association's intent to recover from the registered owner of the property that remains in violation all costs associated with any and all remedy actions taken by the Association. These costs will include but are not limited to the cost of the Notice of Legal Action letter, attorney's fees, court costs, contractor invoices, and administrative fees.
 
+<ol type="a">
+   <li>If applicable, the Association's Attorney will be copied on this letter in order to prevent any undue delays. Further, if this action has been referred to the Attorney the registered owner of the property which remains in violation must conduct all further communications with the Association's Attorney.</li>
+   <li>If the Board issues a fine for non-compliance as a first step in the Legal Process, the fines structure will be detailed in this notice. These fines will be collected in accordance with the Governing Documents and Association policy.</li>
+   <li>The Board may suspend the registered owner's right to use any part of the Common Property and to participate in HOA activities.</li>
+   <li>In accordance with Section 3.21 of the Bylaws, the registered owner of the property may challenge the fine or suspension of registered owner's rights by requesting a hearing before the Board for its reconsideration of the fine or suspension. The request must be made in accordance with the Governing Documents.</li>
+   <li>If applicable, the Association's Attorney will be copied on this letter in order to prevent any undue delays. Further, if this action has been referred to the Attorney the registered owner of the property which remains in violation must conduct all further communications with the Association's Attorney.</li>
+</ol>
 
-**not corrected yet**
-
-This letter will reference the Notice of Violation letter. Thi letter will detail the failure of the owner to remedy the violation or bring their property into compliance. The Association intends to take legal actions against the registered owner, which may include fines, self-help remedies, or court proceedings. The Association also aims to recover all costs associated with remedy actions.
-a) If applicable, the Association’s Attorney will be copied on this letter to prevent undue delays. Further communication with the Association’s Attorney will be required if the action has been referred to them.
-b) The Board may issue fines for non-compliance, and the structure of these fines will be outlined in the notice.
-c) The Board can suspend the registered owner’s right to use Common Property and participate in HOA activities.
-d) The property owner may challenge fines or suspensions by requesting a hearing before the Board.
-e) Similar to point (a), the Association’s Attorney may be copied on this letter if applicable.
-
-
-**boilerplate**
+11.	The Board will cause payment to be remitted to cover all cost for such remedy actions paid from Association funds at the time service is rendered. The Board will take all actions necessary to recover this cost from the violating homeowner. These collection actions will be pursuant to the Governing Documents and published Association policies.
 
 ## Severability
 If any part, term or provision of this Resolution is held to be illegal, in conflict with any law or otherwise invalid, or revoked or amended, the remaining portion or portions shall be considered severable and not be affected by such determination, and the rights and obligations of the parties shall be construed and enforced as if the Resolution did not contain the particular part, term or provisions held to be illegal, invalid, revoked or amended.
 
 ## Changes to the Resolution
-The Board reserves the right to modify this Resolution at any time in its sole discretion by amending the Resolution after a simple majority vote. A majority of the Total Association Vote can amend or remove all or parts of this Resolution at a Regular or Special Meeting of the Association per Article 8.1 of the Declaration.
-
+The Board reserves the right to modify this Resolution at any time in its sole discretion by amending or revoking the Resolution after a simple majority vote. A majority of the Total Association Vote can amend or remove all or parts of this Resolution at a Regular or Special Meeting of the Association per Article 8.1 of the Declaration.
 
 ## Enforceability.
-This Resolution takes effect upon approval by the Board and is immediately enforceable in reference to the SC HOA Act of 2018. To preserve enforceability under the SC HOA Act, it will be filed with the Register before January 10th of the year after passing this Resolution.
+This Resolution takes effect upon approval by the Board and is immediately enforceable in reference to the SC HOA Act of 2018. To preserve enforceability under the SC HOA Act, it will be filed with the Register before January 10th of the year after passing this Resolution. 
