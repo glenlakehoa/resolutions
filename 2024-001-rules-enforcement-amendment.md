@@ -11,6 +11,7 @@ WHEREAS Article 13.4 of the Declaration grants the Board the authority to adopt 
 WHEREAS Article 15.1 of the Declaration grants the Board the authority to enforce these rules and regulations; and 
 
 WHEREAS Article 15.2 of the Declaration grants the Board the authority to exercise self-help remedies at the expense of the affected owners in case violations of these rules and regulations are not resolved after reasonable notice; and
+
 WHEREAS Board Resolution 2022-002 was passed on May 31, 2022 and filed with the Spartanburg County Register of Deeds (“the Register”) on June 3, 2022, in Deed Book 137-M page 265; and
 
 WHEREAS the Board believes Board Resolution 2022-002 needs to be amended and wishes to ratify this amendment to comply with the SC HOA Act;
