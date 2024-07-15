@@ -41,6 +41,14 @@ WHEREAS Article 5.2 of the Bylaws details certain rights and duties of the Townh
 
 WHEREAS Article 7.2(e) of the Declaration authorizes the Board and Architectural Review Committee to promulgate written design standards to determine the Community-Wide Standard; 
 
+WHEREAS Board Resolution 2024-004 promulgating the Community-Wide Standard was passed on July 2, 2024 and filed with the register on Jan 9, 2025;
+
+WHEREAS the Glen Lake Architectural Committee Request Form was filed with the Spartanburg County Register of Deeds (the “Register”) on January 10, 2019 in Deed book 122-K, page 900; and
+
+WHEREAS Board Resolution 2022-003, amending the Community-Wide Standard regarding flag poles was passed on June 6, 2022 and filed with the Register on December 20, 2022 in Deed book 140-E, page 1; and Board Resolution 2022-004, amending the Community-Wide Standard regarding basketball goals was passed on June 6, 2022 and filed with the Register on December 20, 2022 in Deed book 140-E, page 1; and Board Resolution 2022-001, amending the Community-Wide Standard regarding fire pits in its Article 5 was passed on July 5, 2022 and filed with the Register on December 20, 2022 in Deed book 140-E, page 1; and Board Resolution 2024-002, amending the Community-Wide Standard regarding planting and removing Pyrus calleryana was passed on April 3, 2024; and Resolution 2024-003 amending the ARC request form regarding fence structure passed on July 2, 2024; and
+
+
+
 ## Rules
 
 WHEREAS, Article 8.1 of the Declaration authorizes the Board, from time to time, without consent of the members, to promulgate, modify, or delete other use restrictions and rules and regulations applicable to the Community;
