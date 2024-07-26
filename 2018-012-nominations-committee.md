@@ -20,13 +20,13 @@ NOW THEREFORE, THE BOARD HEREBY RESOLVES THAT AN AD HOC NOMINATIONS COMMITTEE SH
      1. Work together with Board to organize the Annual Meeting. Prepare a budget proposal for the Annual Meeting and the election process.
 
 2. Constraints on the Nominations Committee: The above-mentioned purposes for which the Nominations Committee is formed are subject to the following constraints:
-a) The Committee members and the Committee Chair shall be appointed by the Board and shall serve at the pleasure of the Board until the Committee is dissolved. A liaison member of the Board will be assigned to the Committee.
-b) The Nominations Committee may not enter into contracts independently of the Association because the Committee is not a legal entity separate from the Association. All contracts must be approved by the Board as a contract with the Association.
-c) Small expenditures such as (but not limited to) printing of signs, informal mailings, snacks and drinks for consumption at the Annual Meeting shall be subject to approval by the President of the Board of Directors. Expenditures greater than two hundred fifty dollars ($250) shall be subject to Board approval.
-d) The Committee should meet in person at least once per month. A quorum must be present to conduct Committee business. A quorum for meetings shall be a majority of Committee members, not including the liaison. The liaison member of the Board will attend the meeting in a non-voting capacity unless his or her vote is required to break a tie. These regular Committee meetings are not open to other members of the Association.
-e) Meetings may be in person or by conference call, as determined by the Chair.
-f) Minutes from each Committee meeting are not required.
-g) The Committee Chair, or a designee, shall present a Committee Report to the Board on its activities and any recommendations on an as needed basis.
+     1. The Committee members and the Committee Chair shall be appointed by the Board and shall serve at the pleasure of the Board until the Committee is dissolved. A liaison member of the Board will be assigned to the Committee.
+     1. The Nominations Committee may not enter into contracts independently of the Association because the Committee is not a legal entity separate from the Association. All contracts must be approved by the Board as a contract with the Association.
+     1. Small expenditures such as (but not limited to) printing of signs, informal mailings, snacks and drinks for consumption at the Annual Meeting shall be subject to approval by the President of the Board of Directors. Expenditures greater than two hundred fifty dollars ($250) shall be subject to Board approval.
+     1. The Committee should meet in person at least once per month. A quorum must be present to conduct Committee business. A quorum for meetings shall be a majority of Committee members, not including the liaison. The liaison member of the Board will attend the meeting in a non-voting capacity unless his or her vote is required to break a tie. These regular Committee meetings are not open to other members of the Association.
+     1. Meetings may be in person or by conference call, as determined by the Chair.
+     1. Minutes from each Committee meeting are not required.
+     1. The Committee Chair, or a designee, shall present a Committee Report to the Board on its activities and any recommendations on an as needed basis.
 
 4. Dissolution of the Nominations Committee: Once the purpose and responsibilities of the Committee are completed for the current year, and no other tasks have been added by the Board, the Committee shall be dissolved by order of the Board.
 
