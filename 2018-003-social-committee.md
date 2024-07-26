@@ -7,7 +7,8 @@ more interaction and better communication between neighbors.
 
 NOW THEREFORE, THE BOARD HEREBY RESOLVES A STANDING SOCIAL COMMITTEE SHALL BE DESIGNATED AND OPERATE AS FOLLOWS:
 
-1. Purposes of the Social Committee: The specific purposes for which the Social Committee is formed are to:
+<ol>
+<li>Purposes of the Social Committee: The specific purposes for which the Social Committee is formed are to:
 <ol type ="a">
   <li>Organize and plan social and special activities that will benefit the residents of the Association.</li>
   <li>Welcome new Homeowners of the Association with information about not only Glen Lake, but also the surrounding area.</li>
@@ -15,9 +16,9 @@ NOW THEREFORE, THE BOARD HEREBY RESOLVES A STANDING SOCIAL COMMITTEE SHALL BE DE
   <li>Work with the community to solicit other ideas for events.</li>
   <li>Contribute articles to the Association newsletter.</li>
   <li>Aid with the update and/or creation of budget line items and their forecasted dollar amounts related to the social activities of the Association in future annual operating budgets with the Budget Committee.</li>
-</ol>
+</ol></li>
 
-3. Constraints on the Social Committee: The above mentioned purposes for which the Social Committee is formed are subject to the following constraints:
+<li>Constraints on the Social Committee: The above mentioned purposes for which the Social Committee is formed are subject to the following constraints:
 <ol>
   <li>The Committee members and the Committee Chair shall be appointed by the Board and shall serve at the pleasure of the Board for a term of one year. A liaison member of the Board will be assigned to the Committee.</li>
   <li>The Social Committee may not enter into contracts independently of the Association because the Committee is not a legal entity separate from the Association. All contracts must be approved by the Board as a contract with the Association.</li>
@@ -28,7 +29,7 @@ NOW THEREFORE, THE BOARD HEREBY RESOLVES A STANDING SOCIAL COMMITTEE SHALL BE DE
   <li>Meetings may be in person or by conference call, as determined by the Chair.</li>
   <li>Minutes from each Committee meeting are not required.</li>
   <li>The Committee Chair, or a designee, shall present a Committee Report to the Board on its activities and any recommendations on an as needed basis.</li>
-</ol>
+</ol></li>li>
 
 The Board reserves the right to modify this Resolution at any time in its sole discretion. In order to facilitate execution, this Resolution may be executed in multiple counterparts, which shall together constitute one original instrument. The signatures of all Board members passing this Resolution appear below.
 
