@@ -8,12 +8,12 @@ more interaction and better communication between neighbors.
 NOW THEREFORE, THE BOARD HEREBY RESOLVES A STANDING SOCIAL COMMITTEE SHALL BE DESIGNATED AND OPERATE AS FOLLOWS:
 
 1. Purposes of the Social Committee: The specific purposes for which the Social Committee is formed are to:
-(a) Organize and plan social and special activities that will benefit the residents of the Association.
-(b) Welcome new Homeowners of the Association with information about not only Glen Lake, but also the surrounding area.
-(c) Help foster good communications among neighbors.
-(d) Work with the community to solicit other ideas for events.
-(e) Contribute articles to the Association newsletter.
-(f) Aid with the update and/or creation of budget line items and their forecasted dollar amounts related to the social activities of the Association in future annual operating budgets with the Budget Committee.
+  a. Organize and plan social and special activities that will benefit the residents of the Association.
+  a. Welcome new Homeowners of the Association with information about not only Glen Lake, but also the surrounding area.
+  a. Help foster good communications among neighbors.
+  a. Work with the community to solicit other ideas for events.
+  a. Contribute articles to the Association newsletter.
+  a. Aid with the update and/or creation of budget line items and their forecasted dollar amounts related to the social activities of the Association in future annual operating budgets with the Budget Committee.
 
 2. Constraints on the Social Committee: The above mentioned purposes for which the Social Committee is formed are subject to the following constraints:
 (a) The Committee members and the Committee Chair shall be appointed by the Board and shall serve at the pleasure of the Board for a term of one year. A liaison member of the Board will be assigned to the Committee.
