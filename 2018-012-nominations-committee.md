@@ -1,8 +1,6 @@
-GLENLAKE UPSTATE HOMEOWNERS ASSOCIATION, INC. BOARD RESOLUTION 2018-012
+## GLENLAKE UPSTATE HOMEOWNERS ASSOCIATION, INC. BOARD RESOLUTION 2018-012
 
-The undersigned, being the Board of Directors (hereafter referred to as the “Board”) of
-the Glenlake Upstate Homeowners Association, Inc. (hereafter referred to as the
-“Association”), do hereby resolve that:
+The undersigned, being the Board of Directors (hereafter referred to as the “Board”) of the Glenlake Upstate Homeowners Association, Inc. (hereafter referred to as the “Association”), do hereby resolve that:
 
 WHEREAS, Article V of the Bylaws of the Association authorizes the Board to establish by Board Resolution certain committees and to establish the rules and governance of those committees; and
 
