@@ -1,4 +1,4 @@
-# GLENLAKE LAKE UPSTATE HOMEOWNERS ASSOCIATION, INC BOARD RESOLUTION 2024-005
+# GLENLAKE LAKE UPSTATE HOMEOWNERS ASSOCIATION, INC BOARD RESOLUTION 2024-006
 
 The undersigned, being the Board of Directors (hereafter referred to as the “Board”) of the Glenlake Upstate Homeowners Association, Inc. (hereafter referred to as the “Association”), do hereby resolve that:
 
