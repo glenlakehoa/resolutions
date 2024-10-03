@@ -6,12 +6,14 @@ WHEREAS The South Carolina Homeowners Association Act (“SC HOA Act”; S.C. Co
 
 WHEREAS Article 13.4 of the Declaration grants the Board the authority to adopt reasonable rules and regulations governing the use of the Common Areas; and
 
+WHEREAS Board Resolution 2023-004, passed on June 6, 2023, and filed at the Spartanburg Register of Deed on January 9 2024, in Deed Book 144-W page 702, declared the current pool rules; and
+
 WHEREAS the Board believes that the pool rules need to be changed and wishes to ratify these to comply with the SC HOA Act; 
 
 NEW RULES, DEFINITIONS AND INTERPRETATIONS REGARDING THE POOL WILL BE PROMULGATED AS FOLLOWS:
 
 ## Article 1.
-The pool rules will be changed to the document as attached to this resolution. 
+The pool rules will be changed to the document as attached to this Resolution. Any pool rules with an earlier adoption date than the date of passing this Resolution will be superseded by these newly adopted rules.
 
 ## Severability
 If any part, term or provision of this Resolution is held to be illegal, in conflict with any law or otherwise invalid, or revoked or amended, the remaining portion or portions shall be considered severable and not be affected by such determination, and the rights and obligations of the parties shall be construed and enforced as if the Resolution did not contain the particular part, term or provisions held to be illegal, invalid, revoked or amended.
