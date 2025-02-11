@@ -13,10 +13,9 @@ A STANDING COMMUNICATION COMMITTEE SHALL BE DESIGNATED AND OPERATE AS FOLLOWS:
     <li>Purposes of the Communication Committee: The specific purposes for which the Communication Committee is formed are to:</li>
     <ol type ="a">
         <li>Organize and disseminate information that will benefit and inform the residents of the Association decisions.</li>
-        <li>Help foster good communications among neighbors.</li>
+        <li>Help foster good communications among neighbors on various platforms like the HOA website and social media.</li>
         <li>Work with the community to solicit individual preferred method of communicating.</li>
-        <li>Contribute articles to the Association newsletter.</li>
-        <li>Aid with the update and/or creation of budget line items and their forecasted dollar amounts related to communication activities of the Association in future annual operating budgets with the Budget Committee.</li>
+        <li>Investigate, budget and implement tools and resources to enable virtual meetings</li>
         <li>Encourage resident participation in voting on Board approved decisions or giving their proxy to designated Board members.</li>
     </ol>
     <li>Constraints on the Communication Committee: The above mentioned purposes for which the Communication Committee is formed are subject to the following constraints:</li>
