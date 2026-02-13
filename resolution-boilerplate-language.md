@@ -29,6 +29,8 @@ WHEREAS on March 7, 2006, the Association voted to amend the Original Bylaws wit
 
 WHEREAS the whole of the Original Bylaws and the First Amendment will be known as the Bylaws;
 
+WHEREAS "Board Meetings" are defined in the Bylaws Articles 3.8 Organization Meeting, 3.9 Regular Meeting and 3.10 Special Meetings, and all such meetings will be regarded equivalent for the purpose of Board Member's state of presence; and "Duly noticed" means noticed or scheduled in accordance with Bylaws Articles 3.8–3.10, including notice by regular meeting schedule under Article 3.9 and notice given under Article 3.10 for special meetings;
+
 ## SC HOA Act of 2018
 
 WHEREAS The South Carolina Homeowners Association Act (“SC HOA Act”; S.C. Code Ann. § 27-30-110 et al) sets certain restrictions to the enforceability of governing documents, rules, regulations and amendments;
@@ -77,4 +79,12 @@ Throughout this Resolution, terms such as Glenlake Upstate Homeowners Associatio
 
 ## Enforceability.
 
-This Resolution takes effect upon approval by the Board and is immediately enforceable in reference to the SC HOA Act. To preserve enforceability under the SC HOA Act, it will be filed with the Register before January 10th of the year after passing this Resolution. 
+This Resolution is effective upon adoption by the Board. To maintain enforceability under S.C. Code § 27-30-130, it shall be recorded in the Register by January 10 of the year following adoption.
+
+## Accessibility
+
+The Association shall make this Resolution accessible to members consistent with S.C. Code §27-30-130(B), including by posting in a common area, maintaining it on an Association website for download, or providing it electronically upon request.
+
+## Precedence of law
+
+If there is any conflict between this Resolution, the Bylaws, the Declaration and applicable law, applicable law controls. If there is no conflict with applicable law, the Declaration controls over the Bylaws, and the Bylaws control over this Resolution.
